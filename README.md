@@ -1,14 +1,15 @@
 # Travitar 9000
 
-A conversational agent to tell you about myself and point you to my portfolio. Travitar 9000 is built using the following stack:
+Travitar9000 is a virtual version of myself, with prompts and experience fine tuned by myself. It utilizes Next.js, Tailwind CSS, TypeScript, tRPC, Markdown, and Chat GPT 3.5 to make a chatbot that is a virtual version of me and will point you to my portfolio url.
 
-1. NextJS
-2. Tailwindcss
-3. Typescript
-4. tRPC
-5. Markdown
-6. GPT-3.5-turbo#� �T�r�a�v�i�t�a�r�-�9�0�0�0�
-�
-�#� �T�r�a�v�i�t�a�r�-�9�0�0�0�
-�
-�
+## Features
+
+- Interactive chat interface with GPT 3.5 for real-time responses
+- Personalized profile with customizable appearance
+- Responsive and modern design using Tailwind CSS
+- Seamless integration with tRPC for efficient data fetching
+- Markdown support for easy content management
+
+Check it out it was fun playing with the openai api and fine tuning the setup.  
+https://travitar-9000.vercel.app/
+
